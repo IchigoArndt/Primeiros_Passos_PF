@@ -796,11 +796,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Worksapce\\Primeiro_Projeto_PF\\ConsoleApp1\\ConsoleApp1.fsproj",
+      "projectUniqueName": "C:\\Worksapce\\Primeiros_Passos_PF\\ConsoleApp1\\ConsoleApp1.fsproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Worksapce\\Primeiro_Projeto_PF\\ConsoleApp1\\ConsoleApp1.fsproj",
+      "projectPath": "C:\\Worksapce\\Primeiros_Passos_PF\\ConsoleApp1\\ConsoleApp1.fsproj",
       "packagesPath": "C:\\Users\\luiz.costa\\.nuget\\packages\\",
-      "outputPath": "C:\\Worksapce\\Primeiro_Projeto_PF\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Worksapce\\Primeiros_Passos_PF\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
